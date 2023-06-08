@@ -6,3 +6,5 @@ viviendo en CDMX
 Hoy hablaremos de su historia.
 
 No es tan gordo.
+
+Hoy estudia git.
